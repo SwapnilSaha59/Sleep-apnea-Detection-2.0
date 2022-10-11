@@ -28,12 +28,3 @@ Python==2.7
 Keras==2.3
 Tensorflow==2.1
 
-## Cite
-
-If our work is helpful to you, please cite:
-
-Wang T, Lu C, Shen G, et al. Sleep apnea detection from a single-lead ECG signal with automatic feature-extraction through a modified LeNet-5 convolutional neural network[J]. PeerJ, 2019, 7: e7731. [https://doi.org/10.7717/peerj.7731](https://doi.org/10.7717/peerj.7731)
-
-## Email:
-
-If you have any questions, please email to: [wtustc@mail.ustc.edu.cn](mailto:wtustc@mail.ustc.edu.cn)
